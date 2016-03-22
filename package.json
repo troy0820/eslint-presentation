@@ -1,0 +1,22 @@
+{
+  "name": "eslint2",
+  "version": "1.0.0",
+  "description": "eslint stuff",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint index.js --fix"
+  },
+  "keywords": [
+    "eslint"
+  ],
+  "author": "Troy M. Connor",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^2.0.0",
+    "eslint-config-eta": "0.0.4"
+  },
+  "dependencies": {
+    "lodash": "^4.6.1"
+  }
+}
