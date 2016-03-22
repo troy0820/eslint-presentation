@@ -1,6 +1,6 @@
 #Don't commit your ugly code.
 
-###Slides are [here](git remote add origin git@github.com:troy0820/eslint-presentation.git)
+###Slides are [here](http://slides.com/troy0820/don-t-commit-your-ugly-code-1#/)
 
 ##Getting started
 
