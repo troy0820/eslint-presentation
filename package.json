@@ -12,6 +12,10 @@
   ],
   "author": "Troy M. Connor",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:troy0820/eslint-presentation.git"
+  },
   "devDependencies": {
     "eslint": "^2.0.0",
     "eslint-config-eta": "0.0.4"
