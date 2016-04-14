@@ -1,5 +1,3 @@
-const _ = require('lodash')
-
 const eslint = 'ESLINT is awesome!!!'
 
 console.log('eslint =>', eslint)
