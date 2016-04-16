@@ -4,5 +4,5 @@
       "semi": [2, "never"],
       "no-unused-vars": 0,
       "no-console": 0
-    }
+        }
 }
