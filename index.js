@@ -12,5 +12,8 @@ switch (n) {
   case 1:
   case 2:
   case 3:
+  //this may throw an error
+  //this didn't throw an error
+  //what happened?
   console.log('Case 3')
 }
