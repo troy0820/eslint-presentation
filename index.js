@@ -11,6 +11,8 @@ const n = 3
 switch (n) {
   case 1:
   case 2:
+  //this shouldn't break
+  //fallthrough
   case 3:
   console.log('Case 3')
 }
