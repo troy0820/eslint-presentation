@@ -12,7 +12,7 @@ switch (n) {
   case 1:
   case 2:
   //this shouldn't break
-  //fallthrough
+  //yup this shouldn't break at all
   case 3:
   console.log('Case 3')
 }
