@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "lint": "eslint .",
-    "fix": "eslint index.js --fix"
+    "fix": "eslint index.js --fix",
+    "start": "node index.js"
   },
   "keywords": [
     "eslint"
